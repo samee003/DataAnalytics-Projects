@@ -65,6 +65,3 @@ pip install pandas numpy seaborn matplotlib
 ```
 
 3. Open `Movie Portfolio Project.ipynb` in Jupyter Notebook or VS Code to view the analysis.
----
-
-**Would you like me to add a specific "Requirements" section with version numbers, or perhaps help you write a more detailed summary for the "Key Findings" section?**
