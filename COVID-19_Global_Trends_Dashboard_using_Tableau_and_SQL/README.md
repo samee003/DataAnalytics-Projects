@@ -41,6 +41,12 @@ The interactive Tableau dashboard consists of four primary visualizations:
 * **Infection Trend & Forecast:** A line graph showing the progression of cases over time.
 
 ---
+## Interactive Dashboard
+[![COVID-19 Dashboard](dashboard_preview.png)](https://public.tableau.com/views/CovidDashboard_17542218334920/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+*Click the image above to view the interactive dashboard.*
+
+---
 
 ## How to Run the Project
 1. **SQL Setup:**
